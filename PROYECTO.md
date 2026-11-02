@@ -1,5 +1,4 @@
 
-
 # Fundamentos de Computación
 ## Actividad 09: Definición del proyecto integrador
 
