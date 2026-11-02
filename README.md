@@ -66,5 +66,3 @@ Una vez identificado el problema, el reporte se envía a los canales oficiales c
 
 ### Encargado de servidores: 
 - Hosting
-
-
