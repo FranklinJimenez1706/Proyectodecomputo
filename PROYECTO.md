@@ -1,4 +1,3 @@
-Nuestro proyecto en Markdown 
 
 # Fundamentos de Computación
 ## Actividad 09: Definición del proyecto integrador
